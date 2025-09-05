@@ -34,3 +34,6 @@ Install all dependencies:
 
 ```bash
 pip install -U langchain langchain-community faiss-cpu sentence-transformers transformers dateparser
+```
+
+Run this command in your terminal to install all required packages.
